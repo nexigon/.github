@@ -2,20 +2,20 @@
 
 **Troubleshoot devices in seconds. Deploy updates with confidence.**
 
-Nexigon provides a foundational device management layer for you to build upon:
+[Nexigon](https://nexigon.dev) provides a foundational **device management layer for you to build upon**:
 
 - **Remote Access**: Securely access devices without complex VPN and firewall setups.
-- **OTA Updates**: Compatible with best-in-class OSS solutions such as [Rugix](https://github.com/silitics/rugix), [RAUC](https://github.com/rauc/rauc), and others.
+- **OTA Updates**: Orchestrate updates with best-in-class OSS solutions such as [Rugix](https://github.com/silitics/rugix), [RAUC](https://github.com/rauc/rauc), and others.
 - **Configuration**: Easily configure devices remotely through custom JSON properties.
-- **Telemetry**: Observe your fleet in real-time and identify issues before they become problems.
+- **Telemetry**: Observe your fleet in real-time and resolve issues before they become problems.
 
-While the Nexigon backend is propriety, **all on-device components are open-source**.
+While the Nexigon backend is proprietary, **all on-device components are open-source.**
 
-Our open-source components and commitments include:
+[Get started for free today!](https://docs.nexigon.dev/getting-started) 🚀
 
-- [Rugix](https://github.com/silitics/rugix): OTA update tooling that supports robust **A/B system updates**, highly efficient **delta updates**, built-in **device state management**, and more. Works with Debian, Yocto, Buildroot, and others.
-- [Rugix Bakery](https://github.com/silitics): Build system for custom Linux distributions based on Debian or Alpine Linux. Allows you to build and ship production-ready images with built-in OTA update support in hours, not weeks.
+🤝 **Our open-source components and commitments further include:**
 
----
+- [Rugix](https://github.com/silitics/rugix): OTA update tooling that supports robust **A/B system updates**, highly efficient **delta updates**, built-in **state management**, and more. Works with Debian, Alpine Linux, Yocto, Buildroot, and others.
+- [Rugix Bakery](https://github.com/silitics): Build system for custom Linux distributions based on Debian or Alpine Linux. Allows you to build and ship production-ready images with built-in OTA update support in days, not months.
 
-Nexigon is a product of [Silitics](https://github.com/silitics).
+Nexigon is a product of [Silitics](https://github.com/silitics). Silitics is 100% privately owned and lead by its founder [@koehlma](https://github.com/koehlma).
