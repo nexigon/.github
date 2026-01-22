@@ -18,4 +18,4 @@ While the Nexigon backend is proprietary, **all on-device components are open-so
 - [Rugix](https://github.com/rugix): OTA update tooling that supports robust **A/B system updates**, highly efficient **delta updates**, built-in **state management**, and more. Works with Debian, Alpine Linux, Yocto, Buildroot, and others.
 - [Rugix Bakery](https://github.com/rugix): Build system for custom Linux distributions based on Debian or Alpine Linux. Allows you to build and ship production-ready images with built-in OTA update support in days, not months.
 
-Nexigon is a product of [Silitics](https://github.com/silitics). Silitics is 100% privately owned and lead by its founder [@koehlma](https://github.com/koehlma).
+Nexigon is a product of [Silitics](https://github.com/silitics). Silitics is 100% privately owned and led by its founder [@koehlma](https://github.com/koehlma).
