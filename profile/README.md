@@ -9,6 +9,10 @@
 - **Configuration**: Easily configure devices remotely through custom JSON properties.
 - **Telemetry**: Observe your fleet in real-time and resolve issues before they become problems.
 
+**Stay on top of your fleet with Nexigon.**
+
+![Nexigon Dashboard](./images/dashboard.png)
+
 While the Nexigon backend is proprietary, **all on-device components are open-source.**
 
 [Get started for free today!](https://docs.nexigon.dev/getting-started) 🚀
